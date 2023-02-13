@@ -1,2 +1,2 @@
 # git_pocket
-GUI git client 
+test to connect 
